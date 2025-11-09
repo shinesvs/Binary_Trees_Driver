@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdbool.h>
+
+
+void add ( char data );
+void print_preorder();
+void print_inorder();
+void print_postorder();
