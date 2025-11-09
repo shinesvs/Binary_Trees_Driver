@@ -1,15 +1,8 @@
 # 🌳 Binary Tree Traversal Project in C
 
-This repository contains a **C implementation of Binary Tree operations**, including all traversal types —  
-**Inorder**, **Preorder**, **Postorder**, and **Level-Order (Breadth-First)**.  
-It uses a **queue-based helper module** for level-order traversal and a **modular code structure** to separate tree logic, queue utilities, and the main driver program.
-
----
-
 ## 📂 Project Structure
 <details>
 <summary>Click to expand</summary>
-
 ├── main.c # Driver file to test tree operations
 ├── trees.c # Binary tree functions (create, insert, traverse)
 ├── trees.h # Tree header file with structure & prototypes
